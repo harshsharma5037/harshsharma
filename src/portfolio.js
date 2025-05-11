@@ -209,9 +209,7 @@ const achievementSection = {
       image: require("./assets/images/microsoft.jpg"),
       imageAlt: "Microsoft",
       footerLink: [
-        {
-          
-        }
+
       ]
     }
   ],
