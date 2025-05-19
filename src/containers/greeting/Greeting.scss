@@ -121,11 +121,12 @@
 }
 
 @media (max-width: 450px) {
-  .button-greeting-div {
-    flex-direction: column;
+    .button-greeting-div {
+       flex-direction: column;
     align-items: center;
+    }
 }
-}
+
 
 @media (max-width: 320px) {
   .main {
